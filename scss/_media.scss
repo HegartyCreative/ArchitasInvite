@@ -1,0 +1,146 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+
+@media (max-width: 767px) {
+
+    // NAV
+
+    .navbar-brand{
+        width: 120px;
+    }
+
+    .navbar-brand img{
+        padding-left: 5px;
+        padding-top: 3px;
+        width: 100px;
+    }
+
+    // Banner
+
+    .banner img{
+        width: 80%;
+    }
+
+    // Times
+
+    .times_icon{
+    height: 500px;
+    }
+
+    .times p{
+    margin: 15px 0px 30px 0px;
+    }
+
+    // CONTACT US
+    .contact_height{
+    height: 320px;
+    text-align: center;
+    }
+
+    .contact_height p{
+    font-size: 1em;
+    }
+
+    .contact_height img{
+        margin-bottom: 10px;
+        margin-top: 20px;
+        width: 15%;
+    }
+
+
+    // MAP
+
+    .map img{
+        display: none;
+    }
+
+
+    // EVENTS
+
+    .location_events{
+        padding-left: 5px;
+        padding-right: 5px;
+        margin: 0;
+        width: 100%;
+    }
+
+    .set > a{
+        font-size: 1em;
+    }
+
+    // LITERATURE
+
+  .literature_height{
+  height: 570px;
+  margin-top: 0px;
+}
+
+.literature_height img{
+    display: none;
+}
+
+.literature_height h2{
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+
+.lit_text a{
+  text-align: center;
+}
+
+
+    // FOOTER
+
+    ul.footer{
+    display: block;
+    padding-top: 20px;
+    }
+
+    ul.footer li{
+    float: none;
+    margin-left: 0px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    }
+
+    footer{
+    height: 410px;
+    margin: 40px 0px;
+}
+
+}
+
+
+
+@media (min-width: 768px) {
+
+
+        .navbar-brand{
+        width: 120px;
+    }
+
+  .navbar-brand img{
+        padding-left: 5px;
+        padding-top: 3px;
+        width: 100px;
+    }
+
+
+}
+
+
+@media (min-width: 992px) {
+
+
+}
+
+@media (min-width: 1200px) {
+
+
+}
+
+
+
