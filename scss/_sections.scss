@@ -102,9 +102,18 @@ nav {
 
 // CONTACT US
 
-.contact_height{
-    height: 150px;
-    text-align: left;
+.contact_height {
+  height: 200px;
+  text-align: left; }
+
+#contact_small p{
+  font-size: 0.9em;
+  margin-bottom: 40px;
+  display: block;
+}
+
+.below{
+  margin-bottom: 20px;
 }
 
 .contact_height p{

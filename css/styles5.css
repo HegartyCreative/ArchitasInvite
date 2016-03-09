@@ -458,16 +458,8 @@ nav img {
   font-size: 1.15em; }
 
 .contact_height {
-  height: 200px;
+  height: 150px;
   text-align: left; }
-
-#contact_small p {
-  font-size: 0.9em;
-  margin-bottom: 40px;
-  display: block; }
-
-.below {
-  margin-bottom: 20px; }
 
 .contact_height p {
   font-size: 1.1em; }
